@@ -24,7 +24,7 @@
 
   --unity-gaps: 1;
 
-  --unity-background-image: unset;
+  --unity-background-image: var("https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp7182890.jpg&sp=1710691644T9cafa11d0e3a73d8c0525c2c44b957255b99990f496bf285571e82fbab696200");
   --unity-background-blur: unset;
   --unity-inset: 10px;
   --unity-border-radius: 18px;
