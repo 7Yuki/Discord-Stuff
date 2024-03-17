@@ -24,7 +24,8 @@
 
   --unity-gaps: 1;
 
-  --unity-background-image: url("https://wallpapercave.com/download/anime-4k-computer-wallpapers-wp7182890");
+  --unity-background-image: var(--bg-image-url);
+  --bg-image-url: url("https://wallpapercave.com/download/anime-4k-computer-wallpapers-wp7182890");
   --unity-background-blur: unset;
   --unity-inset: 10px;
   --unity-border-radius: 18px;
